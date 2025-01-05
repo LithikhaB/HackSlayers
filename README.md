@@ -1,6 +1,8 @@
-# HackSlayers
+# Hackslayers
 
 IndustriAI Hackathon
+
+### Problem Statement 2: Real-Time Credit Risk Assessment Using Alternative Data
 
 Team Members:
 
