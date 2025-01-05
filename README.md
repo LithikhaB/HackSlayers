@@ -1,7 +1,7 @@
 # HackSlayers
 
 Team Members:
-Nittin.
-Lithikha.
-Vikranth.
-Varsha.
+Nittin Balajee
+Lithikha. B
+Vikranth. V
+Varsha Pillai .M
